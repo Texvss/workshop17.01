@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Asus/Desktop/workshop17.01/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\Workshop_1.dir\\main.cpp.obj -c C:\\Users\\Asus\\Desktop\\workshop17.01\\main.cpp",
+  "file": "C:/Users/Asus/Desktop/workshop17.01/main.cpp",
+  "output": "CMakeFiles/Workshop_1.dir/main.cpp.obj"
+}
+]

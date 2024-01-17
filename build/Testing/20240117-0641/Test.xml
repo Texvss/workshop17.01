@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20240117-0641-Experimental"
+	Name="Notebook-Mansur"
+	Generator="ctest-3.28.1"
+	CompilerName="C:/msys64/mingw64/bin/g++.exe"
+	CompilerVersion="13.2.0"
+	OSName="Windows"
+	Hostname="Notebook-Mansur"
+	OSRelease=" Professional"
+	OSVersion=" (Build 22621)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="0"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="19723"
+	TotalPhysicalMemory="16139"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2688"
+	>
+	<Testing>
+		<StartDateTime>Jan 17 12:42 [NON-UTF-8-BYTE-0xD6][NON-UTF-8-BYTE-0xE5][NON-UTF-8-BYTE-0xED][NON-UTF-8-BYTE-0xF2][NON-UTF-8-BYTE-0xF0][NON-UTF-8-BYTE-0xE0][NON-UTF-8-BYTE-0xEB][NON-UTF-8-BYTE-0xFC][NON-UTF-8-BYTE-0xED][NON-UTF-8-BYTE-0xE0][NON-UTF-8-BYTE-0xFF] [NON-UTF-8-BYTE-0xC0][NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xFF] ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</StartDateTime>
+		<StartTestTime>1705473735</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jan 17 12:42 [NON-UTF-8-BYTE-0xD6][NON-UTF-8-BYTE-0xE5][NON-UTF-8-BYTE-0xED][NON-UTF-8-BYTE-0xF2][NON-UTF-8-BYTE-0xF0][NON-UTF-8-BYTE-0xE0][NON-UTF-8-BYTE-0xEB][NON-UTF-8-BYTE-0xFC][NON-UTF-8-BYTE-0xED][NON-UTF-8-BYTE-0xE0][NON-UTF-8-BYTE-0xFF] [NON-UTF-8-BYTE-0xC0][NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xFF] ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</EndDateTime>
+		<EndTestTime>1705473735</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
