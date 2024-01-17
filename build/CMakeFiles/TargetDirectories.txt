@@ -1,5 +1,0 @@
-C:/Users/Asus/Desktop/workshop17.01/build/CMakeFiles/Workshop_1.dir
-C:/Users/Asus/Desktop/workshop17.01/build/CMakeFiles/package.dir
-C:/Users/Asus/Desktop/workshop17.01/build/CMakeFiles/package_source.dir
-C:/Users/Asus/Desktop/workshop17.01/build/CMakeFiles/edit_cache.dir
-C:/Users/Asus/Desktop/workshop17.01/build/CMakeFiles/rebuild_cache.dir
